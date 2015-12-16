@@ -1,0 +1,11 @@
+C:\Users\teacher\Desktop\Homework\Chapter 4\Exercises\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 4\Exercises\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\teacher\Desktop\Homework\Chapter 4\Exercises\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 4\Exercises\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\teacher\Desktop\Homework\Chapter 4\Exercises\GuessingGame\obj\Debug\GuessingGame.pdb
+D:\csharp\Chapter 4\Exercises\GuessingGame\bin\Debug\GuessingGame.exe.config
+D:\csharp\Chapter 4\Exercises\GuessingGame\obj\Debug\GuessingGame.exe
+D:\csharp\Chapter 4\Exercises\GuessingGame\obj\Debug\GuessingGame.pdb
+D:\csharp\Chapter 4\Exercises\GuessingGame\bin\Debug\GuessingGame.exe
+D:\csharp\Chapter 4\Exercises\GuessingGame\bin\Debug\GuessingGame.pdb
+D:\csharp\Chapter 4\Exercises\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
